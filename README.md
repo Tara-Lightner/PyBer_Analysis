@@ -22,8 +22,9 @@ An additional request came in after the intial exploritory analysis to create a 
 ### Deliverable 1: A ride-sharing summary DataFrame by city type
 
     PyBer Summary DataFrame
+    ![Pyber_Summary_DF_formated_for_Deliverable1_this file can be found in C:\Users\tligh\Documents\MSU\Challenges\PyBer_Analysis\Pyber_Deliverable1_pyber_summary_df.PNG](https://github.com/Tara-Lightner/PyBer_Analysis/blob/main/Pyber_Deliverable1_pyber_summary_df.PNG)
 ## 
-![Pyber_Summary_DF_formated_for_Deliverable1_this file can be found in C:\Users\tligh\Documents\MSU\Challenges\PyBer_Analysis\Pyber_Deliverable1_pyber_summary_df.PNG](https://github.com/Tara-Lightner/PyBer_Analysis/blob/main/Pyber_Deliverable1_pyber_summary_df.PNG)
+
 
 ### Discussion:
 Total Rides
@@ -61,8 +62,9 @@ Total rides, total drivers and total fares are highest in urban, then suburban a
 ### Deliverable 2: A of total fares for each city type
 
     Total Fares by City Type multiple-line chart 
+    ![Total_Fare_by_City_Type_for_Deliverable2_this file can be found in C:\Users\tligh\Documents\MSU\Challenges\PyBer_AnalysisPyber\Total_Fare_by_City_Type.PNG](https://github.com/Tara-Lightner/PyBer_Analysis/blob/main/Total_Fare_by_City_Type.PNG)
 ## 
-![Total_Fare_by_City_Type_for_Deliverable2_this file can be found in C:\Users\tligh\Documents\MSU\Challenges\PyBer_AnalysisPyber\Total_Fare_by_City_Type.PNG](https://github.com/Tara-Lightner/PyBer_Analysis/blob/main/Total_Fare_by_City_Type.PNG)
+
 ## 
 ### Summary:
 
@@ -97,5 +99,9 @@ The specifications Pyber requested in this analysis may not best, or at least fu
 
 ## Challenges and Difficulties Encountered
 
+- What can you conclude about the Outcomes based on Goals?
 
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
 # Git Hub Files
